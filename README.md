@@ -1,5 +1,12 @@
 ## POMPA AIR OTOMATIS
 ---
+---
+### GAMBAR WIRING PROJECT
+---
+### [LINK GAMBAR WIRING PROJECT](https://drive.google.com/file/d/1L6TTmyQV6iIX7142gc55k9fXI2Rw1dnZ/view?usp=drivesdk)
+---
+---
+---
 ### PROBLEM YANG DIANGKAT
 ---
 #### Semakin berjalannya waktu perkembanyan teknologi seperti mesin otomatis semakin banyak. Hal ini membuktikan bahwa mesin-mesin otomatis tersebut semakin banyak dibutuhkan untuk mempermudah kegiatan sehari-hari. Salah satu contohnya untuk mengambil air dari sumber air untuk kebutuhan kita tentu membutuhkan alat. Alat tersebut adalah pompa air yang dapat membantu memindahkan air dari sumber air ke tempat penyimpanan air yang kita miliki.
@@ -32,6 +39,6 @@ REFERENSI
 ---
 ---
 
-## CARA KERJA
+## DEMO PROJECT
 ---
 ---
