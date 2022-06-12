@@ -41,4 +41,6 @@ REFERENSI
 
 ## DEMO PROJECT
 ---
+[LINK YOUTUBE DEMO PROJECT](https://youtu.be/d85zhVGAlu4)
+---
 ---
